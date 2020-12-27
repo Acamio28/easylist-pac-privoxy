@@ -35,7 +35,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
-			<string>URL_TO_YOUR_PAC_FILE</string>
+			<string>https://github.com/Acamio28/easylist-pac-privoxy/blob/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
@@ -44,7 +44,7 @@
 
 	<key>PayloadDisplayName</key>
 	<!-- ADD A NAME FOR YOUR PROFILE -->
-	<string>PROFILE_NAME</string>
+	<string>Acorn Ads</string>
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
