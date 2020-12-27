@@ -12,16 +12,17 @@
 			<string>Global HTTP Proxy</string>
 
 			<key>PayloadIdentifier</key>
-			<!-- 8b5ac376-4823-11eb-b378-0242ac130002 -->
+			<!-- REPLACE GENERATED_UUID_01 -->
 			<string>com.apple.proxy.http.global.
 8b5ac376-4823-11eb-b378-0242ac130002</string>
 
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 
-			<!-- 8b5ac376-4823-11eb-b378-0242ac130002 -->
+			<!-- REPLACE GENERATED_UUID_01 -->
 			<key>PayloadUUID</key>
-			<string>8b5ac376-4823-11eb-b378-0242ac130002</string>
+			<string>
+8b5ac376-4823-11eb-b378-0242ac130002</string>
 
 			<key>PayloadVersion</key>
 			<integer>1</integer>
@@ -34,7 +35,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
-			<string>https://github.com/Acamio28/easylist-pac-privoxy</string>
+			<string>URL_TO_YOUR_PAC_FILE</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
@@ -43,7 +44,7 @@
 
 	<key>PayloadDisplayName</key>
 	<!-- ADD A NAME FOR YOUR PROFILE -->
-	<string>acconfig</string>
+	<string>PROFILE_NAME</string>
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
